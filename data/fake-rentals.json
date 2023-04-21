@@ -1,62 +1,52 @@
 [
     {
-      "name": "Georgian Court",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
-      "image": "https://picsum.photos/200",
-      "price": "1000000",
-      "location": "San Francisco, CA",
+      "name": "Dun na Coiribe, Headford Road, Co. Galway",
+      "description": "Dun na Coiribe, Headford Road, Co. Galway",
+      "image": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6ImNlbnRyZSJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXh4bGFyZ2UtdjMucG5nIn0sInJlc2l6ZSI6eyJmaXQiOiJpbnNpZGUiLCJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwZTdiOTk3ZTdiZTk5ZGM0MGY5YTk3MWZkNDAzZGJmMiJ9?signature=409b5d1b2e01e04091bf44510870547eb635adf0af07e23316956954e966779b",
+      "price": "2250",
+      "location": "Co. Galway",
       "bedrooms": "3",
       "bathrooms": "2",
-      "link": "http://www.example.com"
+      "link": "https://www.daft.ie/for-rent/house-dun-na-coiribe-headford-road-co-galway/4708701"
     },
     {
-      "name": "Brittany Court",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
-      "image": "https://picsum.photos/200",
-      "price": "3000000",
-      "location": "San Francisco, CA",
+      "name": "Doughiska, Galway, Castlegar, Co. Galway",
+      "description": "Doughiska, Galway, Castlegar, Co. Galway",
+      "image": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoibWVkaWFtYXN0ZXItczNldSIsIm9wdGlvbnMiOnsiZ3Jhdml0eSI6ImNlbnRyZSJ9LCJrZXkiOiJ3YXRlcm1hcmstZGFmdC1sb2dvLXh4bGFyZ2UtdjMucG5nIn0sInJlc2l6ZSI6eyJmaXQiOiJpbnNpZGUiLCJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlLzIvZTI1MjYzM2UtZDU1Yi00ZGZkLWJlZWEtMjU0ZjQwMGU1YjA3LmpwZyJ9?signature=8d3040fa086fc1d881d7dd8221361c08c068df1e340d4a7f40a282fa26110ae9",
+      "price": "2450",
+      "location": "Co. Galway",
       "bedrooms": "3",
       "bathrooms": "2",
-      "link": "http://www.example.com"
+      "link": "https://www.daft.ie/for-rent/house-doughiska-galway-castlegar-co-galway/4477715"
     },
     {
-      "name": "Baz Homes",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
-      "image": "https://picsum.photos/200",
-      "price": "9000000",
-      "location": "San Francisco, CA",
+      "name": "67 Park Drive Avenue",
+      "description": "67 Park Drive Avenue, Castleknock, Castleknock, Dublin 15",
+      "image": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvMC9hMGJkZGNmMzAxNjFjYWUzZGM1ZWNlYmZlMGFiYmU4Zi5qcGcifQ==?signature=12edf542946e902f7eb383ea17154e8d2cfa2135eaeacbe302756ca36b656b65",
+      "price": "2800",
+      "location": "Co. Dublin",
       "bedrooms": "3",
       "bathrooms": "2",
-      "link": "http://www.example.com"
+      "link": "https://www.daft.ie/for-sale/terraced-house-67-park-drive-avenue-castleknock-castleknock-dublin-15/4709324"
     },
     {
-      "name": "Bar Homes",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
-      "image": "https://picsum.photos/200",
-      "price": "4000000",
-      "location": "San Francisco, CA",
+      "name": "60 Knocknashee, Goatstown, Goatstown, Dublin 14",
+      "description": "60 Knocknashee, Goatstown, Goatstown, Dublin 14",
+      "image": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZDdkYWMwZTFmZWNmOWYwYzkwNTZiZWFiOTIzMzNlOS5qcGcifQ==?signature=3714ccacc4810c9df595da08d4fa33b65274e3be9ed05be2f242788fa66d92ba",
+      "price": "3100",
+      "location": "Dublin 14",
       "bedrooms": "3",
       "bathrooms": "2",
-      "link": "http://www.example.com"
+      "link": "https://www.daft.ie/for-sale/detached-house-60-knocknashee-goatstown-goatstown-dublin-14/4072636"
     },
     {
-      "name": "Foo Homes",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
-      "image": "https://picsum.photos/200",
-      "price": "100000",
-      "location": "San Francisco, CA",
+      "name": "109 Clonliffe Avenue, Fairview, Dublin 3",
+      "description": "109 Clonliffe Avenue, Fairview, Dublin 3",
+      "image": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImIvNS9iNTI5OTE1NmFlZWQ2ZTgwMDFjYTEzNmMwMWRjNzA1Yi5qcGcifQ==?signature=1144dc431ce4bc1c49f241052f1d5eab0793e4a16526dcb0e07ba82ddb65cc1d",
+      "price": "2150",
+      "location": "Dublin 3",
       "bedrooms": "3",
       "bathrooms": "2",
-      "link": "http://www.example.com"
-    },
-    {
-      "name": "Foo Hall",
-      "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
-      "image": "https://picsum.photos/200",
-      "price": "600000",
-      "location": "San Francisco, CA",
-      "bedrooms": "1",
-      "bathrooms": "2",
-      "link": "http://www.example.com"
+      "link": "https://www.daft.ie/for-sale/terraced-house-109-clonliffe-avenue-fairview-dublin-3/4642550"
     }
   ]
