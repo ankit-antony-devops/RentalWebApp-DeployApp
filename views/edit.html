@@ -4,7 +4,7 @@
 
 <form class="card p-3 m-3 w-50" action="/api/rental/<%= rental.id %>?_method=PATCH" method="post" encType="multipart/form-data">
   <div class="form-group">
-    <label for="name">Rental name</label>
+    <label for="name">Rental Name/Address</label>
     <input
       type="text"
       required
@@ -18,7 +18,7 @@
     />
   </div>
   <div class="form-group">
-    <label for="description">Rental description</label>
+    <label for="description">Description</label>
     <input
       type="text"
       required
@@ -35,7 +35,7 @@
 
     <div class="input-group">
       <div class="input-group-prepend">
-        <span class="input-group-text">$</span>
+        <span class="input-group-text">€</span>
       </div>
       <input
         required
@@ -92,10 +92,11 @@
         id="location"
         name="location"
       >
-      <option value="New York" <%= (rental.location==='New York') ? 'selected' : '' %> >New York</option>
-      <option value="Paris" <%= (rental.location==='Paris') ? 'selected' : '' %> >Paris</option>
-      <option value="Barcelona" <%= (rental.location==='Barcelona') ? 'selected' : '' %> >Barcelona</option>
-      <option value="Tokyo" <%= (rental.location==='Tokyo') ? 'selected' : '' %> >Tokyo</option>
+      <option value="Galway" <%= (rental.location==='Galway') ? 'selected' : '' %> >Galway</option>
+      <option value="Limerick" <%= (rental.location==='Limerick') ? 'selected' : '' %> >Limerick</option>
+      <option value="Dublin" <%= (rental.location==='Dublin') ? 'selected' : '' %> >Dublin</option>
+      <option value="Cork" <%= (rental.location==='Cork') ? 'selected' : '' %> >Cork</option>
+      <option value="Waterford" <%= (rental.location==='Waterford') ? 'selected' : '' %> >Waterford</option>
       </select>
     </div>
   </div>
