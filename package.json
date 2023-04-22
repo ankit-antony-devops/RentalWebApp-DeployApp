@@ -16,5 +16,9 @@
     "multer": "^1.4.4",
     "prettier": "^2.5.1",
     "uuid": "^8.3.2"
-  }
+  },
+  "description": "This Learn module deploys a basic app to Azure App Service.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
