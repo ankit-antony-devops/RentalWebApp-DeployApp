@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/2e793c3f-d2f7-40cc-b748-3e23800af2f9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/rentalwebappdeploy",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a28f30b7-27bb-434f-8465-4ab82acdc52b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/RentalDaftWebApp",
     "appService.deploySubpath": "."
 }
